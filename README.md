@@ -1,0 +1,2 @@
+# luqomsi
+godev luqomsi
