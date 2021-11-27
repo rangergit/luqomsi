@@ -22,7 +22,7 @@
 "PENGATURAN_IKLAN_inter" : "UNITY",
 "PENGATURAN_IKLAN_native" : "ADMOB",
 
-"INTER_COUNT" : 4,
+"INTER_COUNT" : 1,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
