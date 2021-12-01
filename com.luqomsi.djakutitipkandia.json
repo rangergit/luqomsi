@@ -53,9 +53,9 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251_salah",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4481787",
 "UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "_salah",
