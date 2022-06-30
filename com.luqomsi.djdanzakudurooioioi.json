@@ -18,8 +18,8 @@
 // Mode UNITY       Unity backup Startapp
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
-"PENGATURAN_IKLAN_banner" : "ADMOB",
-"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_banner" : "UNITY",
+"PENGATURAN_IKLAN_inter" : "UNITY",
 "PENGATURAN_IKLAN_native" : "ADMOB",
 
 "INTER_COUNT" : 2,
@@ -35,9 +35,9 @@
 
 "STARAPPID" : "211111939",
 
-"ADMOB_BANNER" : "ca-app-pub-1406988301546216/4060744954",
-"ADMOB_INTER" : "ca-app-pub-1406988301546216/2747663280",
-"ADMOB_NATIV" : "ca-app-pub-1406988301546216/5672375372",
+"ADMOB_BANNER" : "ca-app-pub-1406988301546216/4060744954_salah",
+"ADMOB_INTER" : "ca-app-pub-1406988301546216/2747663280_salah",
+"ADMOB_NATIV" : "ca-app-pub-1406988301546216/5672375372_salah",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -55,7 +55,7 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251_salah",
+"UNITY_GAME_ID" : "4045251",
 "UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "_salah",
